@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/chetankala/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
+| [0792-binary-search](https://github.com/chetankala/LeetCode/tree/master/0792-binary-search) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/chetankala/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/chetankala/LeetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
